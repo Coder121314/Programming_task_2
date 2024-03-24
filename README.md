@@ -1,4 +1,4 @@
-# Programming_task_2
+# Film_Layered_Map
 
 The module main.py generates a map (html) of the closest to the start point film locations from the file for the mentioned year.
 The program takes 4 arguments: 
